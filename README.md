@@ -1,4 +1,4 @@
-# MonoCard
+# Docker File
 
 To start your Phoenix server:
 
